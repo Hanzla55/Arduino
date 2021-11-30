@@ -1,4 +1,13 @@
+# KILL SWITCH CON INTERFAZ DE NAVE
 
+## RESUMEN
+I did this this project with UMER.
+
+in which we add a one more button
+
+with which we can turn on and off 
+
+the circuit of [Interfaz de Nave Espacial](https://github.com/Hanzla55/Arduino/blob/main/INTERFAZ%20DE%20NAVE%20ESPACIAL.md)
 
 
 
@@ -76,3 +85,14 @@ void checkButton(){
   }
 }
 ```
+### IMAGEN
+
+![](https://github.com/Hanzla55/Arduino/blob/main/kill%20switch%201.jpg?raw=true)
+
+
+
+![](https://github.com/Hanzla55/Arduino/blob/main/kill%20switch%202.jpg?raw=true)
+
+
+
+![](https://github.com/Hanzla55/Arduino/blob/main/kill%20switch%203.jpg?raw=true)
