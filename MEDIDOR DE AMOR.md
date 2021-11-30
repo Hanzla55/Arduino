@@ -114,9 +114,18 @@ delay(1);
 ```
 ### IMAGENS
 
+If we push some force on the sensor
+
+the temperature goes above 32degrees centigrade
+
+that is baseline temperature the leds turn on.
 
 ![](https://github.com/Hanzla55/Arduino/blob/main/MEDIDOR%201.png?raw=true)
 
+And if we don't push the sensor
 
+the temperature goes down 32degrees centigrades
+
+that is baseline temperaturethe leds turn off.
 
 ![](https://github.com/Hanzla55/Arduino/blob/main/MEDIDOR%202%20.png?raw=true)
