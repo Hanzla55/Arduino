@@ -150,8 +150,19 @@ void playKeyboard() {
 
 ## VARIACION
 
+IN THIS WE DID THE CIRCUIT WITH 6 BOTONS
+
+INSTED OF FOUR.BASICALY ITS THE IDEA OF OUR 
+
+CLASSMATES MIGUEL ANGEL AND CHRISTIAN 
+
+AND WE ARE REDOING IT TO LEARN HOW THEY 
+
+DID THAT.
+
 ### IMAGEN
 
+![](https://raw.githubusercontent.com/Hanzla55/Arduino/main/instrumento%20de%20teclado%20variacion%201.jpg)
 
 ### CODIGO
 
