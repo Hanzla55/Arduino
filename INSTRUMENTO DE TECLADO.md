@@ -10,7 +10,11 @@ by which we can make the sound of a piano
 
 by pressing the bottons.we put a code into it 
 
-through arduino hence it is controlled by software so we 
+through arduino. While doing this we faced a problem 
+
+but we solved it by doing a little bit changes in 
+
+the code ,hence it is controlled by software so we 
 
 can make many more changes in it by applying different 
 
@@ -64,7 +68,7 @@ void loop() {
 
 # INSTRUMENTO DE TECLADO CON KILL SWITCH
 
-### RESUMEN
+### RESUMENSerial.println(keyVal);
 
 EN ESTE PROJECTO QUE HECHO CON ABRIL HEMOS 
 
@@ -104,7 +108,7 @@ void loop() {
   }
 }
 
-void checkButton(){
+void checkButtSerial.println(Serial.println(keyVal);keyVal);on(){
   switchState = digitalRead(buttonPin);
   if (switchState == HIGH && !isTheButtonBeingPressed){
     play = !play;
