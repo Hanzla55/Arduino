@@ -10,3 +10,4 @@ Hola mi llamo Hanzla y esto es mi trabajo de Arduino
 #### [Operadores](https://github.com/Hanzla55/Arduino/blob/main/OPERADORES.md)
 #### [LAMPARA DE VARIOS COLORES](https://github.com/Hanzla55/Arduino/blob/main/LAMAPARA%20VARIOS%20COLORES.md)
 #### [THEREMIN DE OPTICO](https://github.com/Hanzla55/Arduino/blob/main/THEREMIN%20DE%20%C3%93PTICO.md)
+#### [INSTUMENTO DE TECLADO](https://github.com/Hanzla55/Arduino/blob/main/INSTRUMENTO%20DE%20TECLADO.md)
