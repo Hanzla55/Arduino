@@ -13,7 +13,8 @@ Aqui esta imagen de circuito que hemos hecho
 
 
 # CODIGO
-C++ ```
+
+C++  ```
 
 int notes[] = {262, 294, 330, 349};
 
@@ -46,4 +47,5 @@ void loop() {
     noTone(8);
   }
 }
+
 ```
