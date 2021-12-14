@@ -8,7 +8,13 @@ In this project we made a cicuit
 
 by which we can make the sound of a piano 
 
-by pressing the bottons.
+by pressing the bottons.we put a code into it 
+
+through arduino hence it is controlled by software so we 
+
+can make many more changes in it by applying different 
+
+types of code.
 
 # IMAGEN
 Aqui esta imagen de circuito que hemos hecho
@@ -64,7 +70,13 @@ EN ESTE PROJECTO QUE HECHO CON ABRIL HEMOS
 
 AÑADIDO UN BOTON QUE ENCIENDA O APAGUE
 
-EL CIRCUITO.
+EL CIRCUITO de INSTRUMENTO DE TECLADO SI 
+
+PULSO BOTON SE ENCIENDA CIRCUITO Y SI 
+
+PULSO EL BOTON OTRA VES EL CIRCUITO SE 
+
+APAGA.
 
 ### CODIGO
 
