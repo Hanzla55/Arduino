@@ -2,7 +2,7 @@
 
 # RESUMEN
 
-Hecho este projecto con Abril.
+I did this project with Abril.
 
 In this project we made a cicuit 
 
