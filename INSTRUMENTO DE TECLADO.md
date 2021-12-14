@@ -3,7 +3,12 @@
 # RESUMEN
 
 Hecho este projecto con Abril.
+
 In this project we made a cicuit 
+
+by which we can make the sound of a piano 
+
+by pressing the bottons.
 
 # IMAGEN
 Aqui esta imagen de circuito que hemos hecho
