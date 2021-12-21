@@ -1,3 +1,9 @@
+
+### IMAGEN
+
+### CODIGO
+
+``` C++
 int switchStateKill = 0;
 bool isTheButtonBeingPressed = false;
 bool play = false;
