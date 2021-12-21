@@ -1,6 +1,10 @@
 
 ### IMAGEN
 
+
+
+
+
 ### CODIGO
 
 ``` C++
