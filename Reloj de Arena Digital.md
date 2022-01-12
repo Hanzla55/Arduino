@@ -102,14 +102,19 @@ void loop() {
 ### Resumen
 
 
-In this variation the circuit is same but we make a little bit changes int code like int 5th line we wrote ``` C++ 
+In this variation the circuit is same but we make a
+
+
+little bit changes in the code like in the 5th line we wrote
+
+
 int led = 7;  instead of int led = 2 and then
 
 
-in the 18th line we wrote led--;  instead of led++; and at last in the 27th line we wrote led = 7; instead of led = 2;
-
-```
+in the 18th line we wrote led--;  instead of led++;
 
 
+and at last in the 27th line we wrote led = 7; instead of led = 2;
 
-### codigo
+
+### Codigo
