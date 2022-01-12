@@ -3,6 +3,13 @@
 
 ### Resumen
 
+I did this project with Alejandro in which we made a circuit in the circuit 
+
+
+we connected a lcd with arduino by which we can write anything on the lcd 
+
+
+with the help of arduino you can see that in the pictures below.
 
 ### Imagenes
 
