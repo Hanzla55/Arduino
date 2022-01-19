@@ -1,0 +1,15 @@
+# ZOÓTROPO
+
+
+### RESUMEN
+
+
+
+
+### IMAGEN
+
+
+
+
+
+### CODIGO
