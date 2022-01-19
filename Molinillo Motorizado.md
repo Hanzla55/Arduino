@@ -30,10 +30,10 @@ I did this project with ANDREE. IN this project we made a circuit in which we co
 with motor because the arduino board only doesn't has enough power to run this circuit 
 
 
-we also connected a button by which we can turn on and off the motor and also a potentiometer
+we also connected a button by which we can turn on and off the motor.The code we used to
 
 
-by which we can control the speed of the motor.
+program this circuit is given below.
 
 
 
