@@ -37,3 +37,6 @@ cann't only be done by hardware so we also run the code given below in the circu
 
 
 ### CODIGO
+
+
+
