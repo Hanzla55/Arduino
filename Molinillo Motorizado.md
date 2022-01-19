@@ -1,4 +1,4 @@
- Energia = potencia > tiempo
+ Energia = potencia * tiempo
  
  
     E = P.T
@@ -6,7 +6,7 @@
  
     
     
- Potencia = intensidad. voltaje
+ Potencia = intensidad * voltaje
  
  
      P = I.V
