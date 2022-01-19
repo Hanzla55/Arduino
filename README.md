@@ -15,3 +15,4 @@ Hola mi llamo Hanzla y esto es mi trabajo de Arduino
 #### [MEDIDOR DE AMOR](https://github.com/Hanzla55/Arduino/blob/main/MEDIDOR%20DE%20AMOR.md)
 #### [CANCION DE NAVIDAD](https://github.com/Hanzla55/Arduino/blob/main/Cancion%20Navidad.md)
 #### [BOLA DE CRISTAL](https://github.com/Hanzla55/Arduino/blob/main/Bola%20de%20Cristal.md)
+#### [MOLINILLO MOTORIZADO](https://github.com/Hanzla55/Arduino/blob/main/Molinillo%20Motorizado.md)
