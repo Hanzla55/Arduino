@@ -6,7 +6,29 @@
 
 ### RESUMEN
 
-I
+I did this project with my classmate Stiven Wood.
+
+The name of the project is Cerrejo de Puerta (KnockLock)
+
+So in this project we made a circuit in which we made 
+
+a prototype model to how to open and close a door.
+
+so as you see in the image of the circuit that is given 
+
+below if we press the button the door closes and red light 
+
+turns on and you also see a sensor in the image if we 
+
+touch that sensor 3 times or knock near the it,the yellow 
+
+light flashes 3 times and then the door is opened and the 
+
+green light turns on.
+
+
+
+
 
 
 
@@ -21,7 +43,16 @@ I
 
 ### CODIGO
 
-
+// unlock the box
+ locked = false;
+// move the servo to the unlocked position
+ myServo.write(0);
+// wait for it to move
+ delay(20);
+// change status LEDs
+ digitalWrite(greenLed,HIGH);
+ digitalWrite(redLed,LOW);
+ Serial.println("the box is unlocked!");
 
 Copiado este codigo por starterkit de arduino que esta dentro de applicacion deArduino.
 
@@ -115,7 +146,25 @@ void loop() {
 }
 
 
-bool checkForKnock(int value) {
+bool checkForKnock(int value)// unlock the box
+ locked = false;
+// move the servo to the unlo// unlock the box
+ locked = false;
+// move the servo to the unlocked position
+ myServo.write(0);
+// wait for it to move
+ delay(20);
+// change status LEDs
+ digitalWrite(greenLed,HIGH);
+ digitalWrite(redLed,LOW);
+ Serial.println("the box is unlocked!");cked position
+ myServo.write(0);
+// wait for it to move
+ delay(20);
+// change status LEDs
+ digitalWrite(greenLed,HIGH);
+ digitalWrite(redLed,LOW);
+ Serial.println("the box is unlocked!"); {
   
   
   if (value > quietKnock && value < loudKnock) {
