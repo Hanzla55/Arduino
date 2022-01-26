@@ -43,16 +43,7 @@ green light turns on.
 
 ### CODIGO
 
-// unlock the box
- locked = false;
-// move the servo to the unlocked position
- myServo.write(0);
-// wait for it to move
- delay(20);
-// change status LEDs
- digitalWrite(greenLed,HIGH);
- digitalWrite(redLed,LOW);
- Serial.println("the box is unlocked!");
+
 
 Copiado este codigo por starterkit de arduino que esta dentro de applicacion deArduino.
 
