@@ -1,6 +1,14 @@
 # CERREJO DE PUERTA
 
+
+
+
+
 ### RESUMEN
+
+I
+
+
 
 
 
@@ -13,7 +21,12 @@
 
 ### CODIGO
 
+
+
+Copiado este codigo por starterkit de arduino que esta dentro de applicacion deArduino.
+
 ``` C++
+
 
 
 #include <Servo.h>
