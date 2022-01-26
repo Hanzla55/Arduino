@@ -60,6 +60,25 @@ void setup() {
   Serial.begin(9600);
 
   
+      Serial.println("the box is unlocked!");
+
+     
+    }
+  }
+}
+
+
+bool checkForKnock(int value) {
+  
+  
+  if (value > quietKnock && value < loudKnock) {
+
+    
+    
+    digitalWrite(yellowLed, HIGH);
+    delay(50);
+    digitalWrite(yellowLed, LOW);
+    
   digitalWrite(greenLed, HIGH); 
   myServo.write(0);
   Serial.println("the box is unlocked!");
@@ -87,7 +106,26 @@ void loop() {
     knockVal = analogRead(piezo);
     if (numberOfKnocks < 3 && knockVal > 0) {
       if (checkForKnock(knockVal) == true) {
-         numberOfKnocks++;
+         numberOfK
+      Serial.println("the box is unlocked!");
+
+     
+    }
+  }
+}
+
+
+bool checkForKnock(int value) {
+  
+  
+  if (value > quietKnock && value < loudKnock) {
+
+    
+    
+    digitalWrite(yellowLed, HIGH);
+    delay(50);
+    digitalWrite(yellowLed, LOW);
+    nocks++;
       }
 
       
