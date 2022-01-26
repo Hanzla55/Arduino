@@ -3,9 +3,13 @@
 ### RESUMEN
 
 
+
+
+
 ### IMAGEN
 
 
+![](https://github.com/St1v3n3223/Arduino/blob/main/WhatsApp%20Image%202022-01-26%20at%2010.24.18.jpeg?raw=true)
 
 ### CODIGO
 
