@@ -5,9 +5,24 @@
 ### RESUMEN
 
 
+i did this project with Stiven. In this project we made a circuit
+
+in which we connected a KY-015 Sensor with arduino it has three pins one 
+
+which has a ''S'' sign connects with digital pin 8  middle one connects
+
+with 5volts and the last one connects with GROUND (GND). The function
+
+of this sensor is to measure the temperature and humidity of the
+
+surface where it is located.
+
+
 
 
 ### IMAGEN
+
+![](https://raw.githubusercontent.com/St1v3n3223/Arduino/f088f14a1550cf7ff36557885fa03086017dc371/WhatsApp%20Image%202022-02-02%20at%2012.35.34.jpeg)
 
 
 
@@ -16,7 +31,8 @@
 
 ```C++
 
-#include "DHT.h"
+#include "DHT.h
+  "
 
 const int sensor_pin_ky015 = 10;            //pin por donde entra la señal del KY-015
 #define DHT1 DHT11
