@@ -3,7 +3,7 @@
 
 ## RESUMEN
 
-I have done this project with umer 
+I have done this project with ![UMER](https://github.com/umershahzad12)
 
 
 
@@ -23,7 +23,15 @@ by putting a code into it by the
 
 
 
-help of arduino.
+help of arduino.So how the song 
+
+
+
+play when we turn on the button the 
+
+
+
+song starts playing.
 
 
 
