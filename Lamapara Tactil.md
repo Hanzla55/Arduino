@@ -5,6 +5,21 @@
 ### RESUMEN
 
 
+I did this project with ![STIVEN](https://github.com/St1v3n3223). In this project we connected
+
+
+
+a led and an aluminium foil with circuit and arduino. The basic funcion of this is 
+
+
+
+
+when we touch the aluminium foil the Led turns on and when we take away our hand from 
+
+
+the foil the LED turns off.
+
+
 
 
 
@@ -45,7 +60,7 @@ void loop() {
   if (sensorValue > threshold) {
     
     digitalWrite(ledPin, HIGH);
-  }
+  }https://github.com/St1v3n3223
   
   else {
     
