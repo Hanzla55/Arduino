@@ -2,7 +2,7 @@
 
 # INTRODUCCIÓN
 
-Este es un programa que mide la temperatura y enciende LEDs.Yo hecho este projecto con Umer.
+Este es un programa que mide la temperatura y enciende LEDs.Yo hecho este projecto con ![Umer](https://github.com/umershahzad12).
 
 ## Resumen/Montaje
 
