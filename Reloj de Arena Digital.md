@@ -2,7 +2,7 @@
 
 ### Resumen
 
-I did this project[Reloj de Arena Digital](https://github.com/Hanzla55/Arduino/blob/main/Reloj%20de%20Arena%20Digital.md) with Alejandro 
+I did this project with ![Alejandro](https://github.com/Baelyn1/1-Trimestre/commits?author=Baelyn1) 
 
 
 In this project we made a circuit ìn which if we do movement near the board or if we touch the board
