@@ -5,7 +5,7 @@
 ## Explain
 
 
-In the first project Me and Umer,
+In the first project Me and ![Umer](https://github.com/umershahzad12),
 
 we did a circuit in which if we put hand on the sensor it stops 
 
