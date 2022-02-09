@@ -3,7 +3,7 @@
 
 ### Resumen
 
-I did this project with Alejandro in which we made a circuit in the circuit 
+I did this project with ![Alejandro](https://github.com/Baelyn1/1-Trimestre) in which we made a circuit in the circuit 
 
 
 we connected a lcd with arduino by which we can write anything on the lcd 
