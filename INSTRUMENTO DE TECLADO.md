@@ -2,7 +2,7 @@
 
 # RESUMEN
 
-I did this project with Abril.
+I did this project with ![Abril](https://github.com/jjksimp/).
 
 In this project we made a cicuit 
 
