@@ -5,7 +5,7 @@
 ### RESUMEN
 
 
-i did this project with ![Stiven](https://github.com/St1v3n3223). In this project we made a circuit
+I did this project with ![Stiven](https://github.com/St1v3n3223). In this project we made a circuit
 
 in which we connected a KY-015 Sensor with arduino it has three pins one 
 
