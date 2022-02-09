@@ -24,7 +24,7 @@
 
 ### RESUMEN
 
-I did this project with ANDREE. IN this project we made a circuit in which we connected a battery 
+I did this project with ![ANDREE](https://github.com/Samael696/). IN this project we made a circuit in which we connected a battery 
 
 
 with motor because the arduino board only doesn't has enough power to run this circuit 
