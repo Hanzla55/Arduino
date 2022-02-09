@@ -19,6 +19,6 @@ Hola mi llamo Hanzla y esto es mi trabajo de Arduino
 #### [ZOÓTROPO](https://github.com/Hanzla55/Arduino/blob/main/Zo%C3%B3tropo.Md)
 #### [RELOJ DE ARENA DIGITAL](https://github.com/Hanzla55/Arduino/blob/main/Reloj%20de%20Arena%20Digital.md)
 #### [CERROJO DE PUERTA](https://github.com/Hanzla55/Arduino/blob/main/Cerrejo%20de%20puerta.md)
-#### [LAMAPARA TECTIL](https://github.com/Hanzla55/Arduino/blob/main/Lamapara%20Tectil.md)
+#### [LAMAPARA TECTIL](https://github.com/Hanzla55/Arduino/blob/main/Lamapara%20Tactil.md)
 #### [SENSOR DE TEMPERATURA Y HUMEDAD](https://github.com/Hanzla55/Arduino/blob/main/Sensor%20de%20temperatura%20y%20humedad.md)
 #### [JOYSTICK](https://github.com/Hanzla55/Arduino/blob/main/JoyStick.md)
