@@ -43,7 +43,7 @@ cann't only be done by hardware so we also run the code given below in the circu
 Este codigo esta copiado por dentro de arduino. 
 
 
-C++```
+``` C++
 
 
 const int controlPin1 = 2; // connected to pin 7 on the H-bridge
