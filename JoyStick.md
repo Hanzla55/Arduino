@@ -4,12 +4,24 @@
 
 ### RESUMEN
 
+I did this project with ![STIVEN](https://github.com/St1v3n3223).  In this project 
+
+
+we connected a joystick and a small loud speaker with arduino. So when we move the 
+
+
+joystick in the different directions the speaker make the different sounds in the each direction,
+
+
+because of the code that we had put in the arduino.
+
 
 
 
 
 ### IMAGEN
 
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/37cba7a43616c5e94d251392e592e30d3704f4d9/WhatsApp%20Image%202022-02-02%20at%2010.06.47.jpeg)
 
 
 
