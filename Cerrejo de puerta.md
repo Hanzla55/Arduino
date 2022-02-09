@@ -6,7 +6,7 @@
 
 ### RESUMEN
 
-I did this project with my classmate Stiven Wood.
+I did this project with my classmate 1![Stiven](https://github.com/St1v3n3223/).
 
 The name of the project is Cerrejo de Puerta (KnockLock)
 
