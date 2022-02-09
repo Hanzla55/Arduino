@@ -5,7 +5,6 @@
 
 
 
-## Introduccion teorica
 
 
 ## Processo de montaje
